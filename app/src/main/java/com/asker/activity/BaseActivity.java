@@ -16,7 +16,7 @@ public class BaseActivity extends Activity {
         setContentView(R.layout.activity_base);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         TextView textView;
-       // Snackbar.make(, "Replace with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+       // Snackbar.make(, "Replace with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show();·
     }
 
     @Override
